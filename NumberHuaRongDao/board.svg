@@ -1,0 +1,15 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+  <!-- 棋盘背景 -->
+  <rect width="300" height="300" fill="#f0e68c" stroke="#8b4513" stroke-width="3"/>
+  
+  <!-- 网格线 -->
+  <g stroke="#8b4513" stroke-width="2">
+    <!-- 垂直线 -->
+    <line x1="100" y1="0" x2="100" y2="300"/>
+    <line x1="200" y1="0" x2="200" y2="300"/>
+    
+    <!-- 水平线 -->
+    <line x1="0" y1="100" x2="300" y2="100"/>
+    <line x1="0" y1="200" x2="300" y2="200"/>
+  </g>
+</svg>

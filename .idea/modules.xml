@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdvancedJavaPractice/AdvancedJavaPractice.iml" filepath="$PROJECT_DIR$/AdvancedJavaPractice/AdvancedJavaPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HeiMa-Employee-Sys/HeiMa-Employee-Sys.iml" filepath="$PROJECT_DIR$/HeiMa-Employee-Sys/HeiMa-Employee-Sys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEEPractice.iml" filepath="$PROJECT_DIR$/JavaEEPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MovieContro/MovieContro.iml" filepath="$PROJECT_DIR$/MovieContro/MovieContro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumberHuarongDao/NumberHuarongDao.iml" filepath="$PROJECT_DIR$/NumberHuarongDao/NumberHuarongDao.iml" />
+    </modules>
+  </component>
+</project>

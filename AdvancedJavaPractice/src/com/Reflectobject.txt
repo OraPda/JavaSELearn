@@ -1,0 +1,11 @@
+studentDemo
+name=小明
+age=10
+Teacher
+name=小红
+age=20
+hobby=java
+salary=9000.0
+className=3,4
+sex=女
+phone=1234356
